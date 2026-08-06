@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently persuing bachelor of engineering in Artificial Intelligence and Machine Learning.
+I'm currently pursuing bachelor of engineering in Artificial Intelligence and Machine Learning.
 
 
 ## 🌐 Socials:
